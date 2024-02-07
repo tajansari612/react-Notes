@@ -1,7 +1,7 @@
-
+import Chai from "./01_Chai"
 function App() {
   return (
-   <h1>New React JS Project</h1>
+   <Chai />
   );
 }
 

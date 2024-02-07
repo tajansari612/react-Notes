@@ -1,8 +1,13 @@
+import Chai from "./01_Chai"
 
 function App() {
-  
+
   return (
-   <h1>New React Project with vite</h1>
+    <>
+      <Chai />
+      <h1>This is a heading tag H1</h1>
+      <p>This is a paragraph</p>
+    </>
   )
 }
 
